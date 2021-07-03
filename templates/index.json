@@ -58,6 +58,7 @@
     },
     "image_text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
