@@ -36,9 +36,10 @@
         "b9aa42b0-faa3-49ec-9cbe-c76bc73df01b"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8902.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "adapt_height_first_image": false
       }
     },
