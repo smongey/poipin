@@ -23,13 +23,13 @@
 
 .rich-text--full-width .rich-text__blocks {
   /* 4rem (1.5rem + 2.5rem) margin on left & right */
-  width: calc(100% - 8rem);
+  width: calc(100% - 5rem);
 }
 
 .rich-text:not(.rich-text--full-width),
 .rich-text--full-width.color-background-1 {
-  margin-top: 5rem;
-  margin-bottom: 5rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
 }
 
 .rich-text:not(.color-background-1) {
@@ -55,7 +55,7 @@
 
 @media screen and (min-width: 990px) {
   .rich-text__blocks {
-    max-width: 78rem;
+    max-width: 68rem;
   }
 }
 
