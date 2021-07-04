@@ -91,11 +91,150 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "1625357188c6cbf0be": {
+      "type": "rich-text",
+      "blocks": {
+        "1625357188c6cbf0be-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Poipín is an independent Irish design company, founded by designer Ciara Connick, which produces artworks and prints inspired by the natural world.",
+            "heading_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "1625357188c6cbf0be-0"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false
+      }
+    },
+    "16253573292708dcc0": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "16253573292708dcc0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "16253573292708dcc0-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16253573292708dcc0-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16253573292708dcc0-0",
+        "16253573292708dcc0-1",
+        "16253573292708dcc0-2"
+      ],
+      "settings": {
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
+    "1625357356d6da4618": {
+      "type": "collage",
+      "blocks": {
+        "58b74934-069a-45ac-b3cc-0b9f912d4a60": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9037.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "2c4c0a6b-faca-4ca3-82da-12c0c1dea26b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_8944.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "43c8fb99-3760-499c-833e-5e255be89a8b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_9103.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "58b74934-069a-45ac-b3cc-0b9f912d4a60",
+        "2c4c0a6b-faca-4ca3-82da-12c0c1dea26b",
+        "43c8fb99-3760-499c-833e-5e255be89a8b"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "162535736930fb1c8b": {
+      "type": "rich-text",
+      "blocks": {
+        "162535736930fb1c8b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Each piece of work is delicately handcrafted, reflecting a desire to capture a moment in time that honours the beauty of the local flora found in Ireland.",
+            "heading_size": "small"
+          }
+        },
+        "162535736930fb1c8b-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "162535736930fb1c8b-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "162535736930fb1c8b-0",
+        "162535736930fb1c8b-1",
+        "162535736930fb1c8b-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": false
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
-    "image_text"
+    "image_text",
+    "1625357188c6cbf0be",
+    "16253573292708dcc0",
+    "1625357356d6da4618",
+    "162535736930fb1c8b"
   ]
 }
