@@ -1,6 +1,7 @@
 {
   "current": {
-    "colors_accent_1": "#000000",
+    "colors_accent_1": "#453e3e",
+    "colors_text": "#453e3e",
     "colors_background_2": "#f7f0eb",
     "type_header_font": "helvetica_n4",
     "type_body_font": "helvetica_n4",

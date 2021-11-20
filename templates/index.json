@@ -5,9 +5,8 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "COMING SOON"
           }
         },
         "button": {
@@ -45,6 +44,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Featured products",
         "collection": "",
