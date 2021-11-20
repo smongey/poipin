@@ -44,7 +44,6 @@
     },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Featured products",
         "collection": "",
@@ -63,18 +62,21 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image with text"
           }
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
           }
         },
         "button": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
